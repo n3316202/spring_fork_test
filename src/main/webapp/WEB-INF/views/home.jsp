@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+충돌아 
 </h1>
 
 <P>  충돌시간 ${serverTime}. </P>
